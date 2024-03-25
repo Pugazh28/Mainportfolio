@@ -94,8 +94,8 @@ body{
     color: var(--main-color);
 }
 .home-img img{
-    width: 30vw;
-    border-radius: 50%;
+    width: 40vw;
+    border-radius: 55%;
     outline: var(--main-color);
     margin-left: 20px;
     box-shadow: 0 0 2rem var(--main-color);
